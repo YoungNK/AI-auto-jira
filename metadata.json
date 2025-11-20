@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow AI",
+  "description": "A modern, Jira-like Kanban board powered by Gemini. Features AI-assisted task breakdown, description enhancement, and a responsive drag-and-drop style interface.",
+  "requestFramePermissions": []
+}
